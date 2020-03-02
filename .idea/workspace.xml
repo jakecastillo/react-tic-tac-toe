@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aff2ff6-35ae-45fe-b752-cbe1d25f4d49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/.bin/acorn" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/.bin/ansi-html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/.bin/atob" afterDir="false" />
@@ -30022,13 +30024,12 @@
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/node_modules/string-width/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/yargs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/serviceWorker.js" beforeDir="false" />
@@ -30040,7 +30041,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -30065,9 +30066,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/my-app/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/my-app" />
+      <recent name="$PROJECT_DIR$/my-app/src" />
     </key>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
