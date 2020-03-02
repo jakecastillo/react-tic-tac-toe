@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aff2ff6-35ae-45fe-b752-cbe1d25f4d49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/.bin/acorn" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/.bin/ansi-html" afterDir="false" />
@@ -30024,8 +30023,9 @@
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/node_modules/string-width/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/yargs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" />
@@ -30041,7 +30041,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -30066,8 +30066,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/my-app" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/my-app/src" />
     </key>
   </component>
@@ -30082,5 +30082,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="441" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1583121552305" />
+    <state x="615" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1583140389424">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="615" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583140389424" />
   </component>
 </project>
