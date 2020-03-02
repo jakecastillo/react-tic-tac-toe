@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aff2ff6-35ae-45fe-b752-cbe1d25f4d49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-app" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/.bin/acorn" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/.bin/ansi-html" afterDir="false" />
@@ -30023,7 +30024,9 @@
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/node_modules/string-width/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/yargs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" />
@@ -30032,6 +30035,7 @@
       <change beforePath="$PROJECT_DIR$/my-app/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/serviceWorker.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-tic-tac-toe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/react-tic-tac-toe.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30061,9 +30065,11 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="Console" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
       <recent name="$PROJECT_DIR$/my-app" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/my-app/src" />
@@ -30084,5 +30090,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="615" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583140389424" />
+    <state x="611" y="97" width="683" height="729" key="find.popup" timestamp="1583140698511">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="611" y="97" width="683" height="729" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1583140698511" />
   </component>
 </project>
