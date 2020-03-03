@@ -30022,7 +30022,6 @@
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/node_modules/string-width/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/node_modules/yargs/yargs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/my-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" />
